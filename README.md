@@ -1,10 +1,5 @@
 # Randomly Generated Art
 
-Sure, here is a README file for your GitHub project:
-
-
-# Randomly Generated Art
-
 This project uses React to fetch data from the Art Institute of Chicago API and display a randomly generated artwork.
 
 ## Getting Started
